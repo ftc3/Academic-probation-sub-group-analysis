@@ -1,4 +1,4 @@
-# Academic-probation-sub-group-analysis
+# Academic probation sub-group analysis
 
 ![Validity Check](/rd_validity_check.png)
 
